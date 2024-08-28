@@ -1,5 +1,5 @@
 # 💫 About Me:
-SRE | DevOps | IaC
+SRE at Stone Co
 
 
 # 💻 Tech Stack:
