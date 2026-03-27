@@ -1,5 +1,5 @@
 # 💫 About Me:
-SRE at Stone Co
+SRE
 
 
 # 💻 Tech Stack:
